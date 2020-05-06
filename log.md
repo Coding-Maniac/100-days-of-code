@@ -6,4 +6,7 @@
 
 **Thoughts:**  The maths was hitting me pretty hard but managed it through.Working with Javascript was fun as always
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Links to work:** 
+          *[Basics of Javascript](https://github.com/Coding-Maniac/Reactjs/tree/master/JavascriptBasics)
+          *[MachineLearning](https://github.com/Coding-Maniac/Machine-Learning/tree/master/code/DatascienceFromScratch)
+
