@@ -12,7 +12,9 @@
 
 ### Day 2: May 7th , 2020
 **Today's Progress**: Learnt about hypothesis testing and learnt the basics of using react by buliding Tic Tac Toe Game
+
 **Thoughts** : Pretty slow day wasnt able to grasp the concepts properly.
+
 **Links to work:** 
           *[Basics of Javascript](https://github.com/Coding-Maniac/Reactjs/tree/master/JavascriptBasics)
           *[MachineLearning](https://github.com/Coding-Maniac/Machine-Learning/tree/master/code/DatascienceFromScratch)
