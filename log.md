@@ -18,3 +18,13 @@
 **Links to work:** 
           *[Basics of Javascript](https://github.com/Coding-Maniac/Reactjs/tree/master/JavascriptBasics) <br>
           *[MachineLearning](https://github.com/Coding-Maniac/Machine-Learning/tree/master/code/DatascienceFromScratch)
+
+### Day 3: May 8th , 2020
+**Today's Progress**: Got heavily hit by the math behind the algorithms.Chose an alternate way.Almost completing the documentation of Reactjs
+
+**Thoughts** : Hope to see progress and a rapid growth before the 25 day mark
+
+**Links to work:** 
+          *[Basics of Javascript](https://github.com/Coding-Maniac/Reactjs/) <br>
+          *[MachineLearning](https://github.com/Coding-Maniac/Machine-Learning/tree/master/code/DatascienceFromScratch)
+
