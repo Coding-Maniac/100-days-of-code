@@ -28,3 +28,11 @@
           *[Basics of Javascript](https://github.com/Coding-Maniac/Reactjs/) <br>
           *[MachineLearning](https://github.com/Coding-Maniac/Machine-Learning/tree/master/code/DatascienceFromScratch)
 
+## Missed two days Due to weekend (Wasnt sure about what to do)
+### Day 4: May 11th , 2020
+**Today's Progress**: Started doing calculator app on React js
+
+**Thoughts** : Hit the biggest **Reset** button in my life.Decided to quit trying machine learning and aiming to become a **Full-Stack Developer**.
+
+**Links to work:**  <br>
+          *[Basics of Javascript](https://github.com/Coding-Maniac/Reactjs/)
