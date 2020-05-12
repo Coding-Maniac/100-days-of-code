@@ -7,7 +7,7 @@
 **Thoughts:**  The maths was hitting me pretty hard but managed it through.Working with Javascript was fun as always
 
 **Links to work:** 
-          *[Basics of Javascript](https://github.com/Coding-Maniac/Reactjs/tree/master/JavascriptBasics) <br>
+          *[Basics of Javascript](https://github.com/Coding-Maniac/WebDevelopment) <br>
           *[MachineLearning](https://github.com/Coding-Maniac/Machine-Learning/tree/master/code/DatascienceFromScratch)
 
 ### Day 2: May 7th , 2020
@@ -16,7 +16,7 @@
 **Thoughts** : Pretty slow day wasnt able to grasp the concepts properly.
 
 **Links to work:** 
-          *[Basics of Javascript](https://github.com/Coding-Maniac/Reactjs/tree/master/JavascriptBasics) <br>
+          *[Basics of Javascript](https://github.com/Coding-Maniac/WebDevelopment) <br>
           *[MachineLearning](https://github.com/Coding-Maniac/Machine-Learning/tree/master/code/DatascienceFromScratch)
 
 ### Day 3: May 8th , 2020
@@ -25,14 +25,13 @@
 **Thoughts** : Hope to see progress and a rapid growth before the 25 day mark
 
 **Links to work:** 
-          *[Basics of Javascript](https://github.com/Coding-Maniac/Reactjs/) <br>
+          *[Basics of Javascript](https://github.com/Coding-Maniac/WebDevelopment/) <br>
           *[MachineLearning](https://github.com/Coding-Maniac/Machine-Learning/tree/master/code/DatascienceFromScratch)
 
-## Missed two days Due to weekend (Wasnt sure about what to do)
-### Day 4: May 11th , 2020
-**Today's Progress**: Started doing calculator app on React js
+### Day 4: May 12th , 2020
+**Today's Progress**: Started to learn bootstrap 
 
-**Thoughts** : Hit the biggest **Reset** button in my life.Decided to quit trying machine learning and aiming to become a **Full-Stack Developer**.
+**Thoughts** : Worked on bootstrap before but learning to use it with javascript
 
 **Links to work:**  <br>
-          *[Basics of Javascript](https://github.com/Coding-Maniac/Reactjs/)
+          *[Basics of Javascript](https://github.com/Coding-Maniac/WebDevelopment/)
